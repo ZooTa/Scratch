@@ -1,2 +1,2 @@
 # Scratch
-Scratch's tasks in Samsung's Innovation Campus
+This is my Scratch's tasks in Samsung's Innovation Campus
